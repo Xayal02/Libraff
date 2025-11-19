@@ -1,0 +1,1683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\G513IE\\source\\repos\\Libraff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\booksupply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\booksupply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\warehouse\\supplyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\warehouse\\supplyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\booksupplydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\booksupplydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.application\\cqrs\\commands\\warehouse\\addsupply\\addsupplycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|solutionrelative:libraff.application\\cqrs\\commands\\warehouse\\addsupply\\addsupplycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\services\\booksupplyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\services\\booksupplyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\repositories\\booksupplyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\repositories\\booksupplyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B690B8-6D94-4936-BC24-CC8DE05A7F6B}|Libraff.Api\\Libraff.Api.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.api\\controllers\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B690B8-6D94-4936-BC24-CC8DE05A7F6B}|Libraff.Api\\Libraff.Api.csproj|solutionrelative:libraff.api\\controllers\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.application\\cqrs\\commands\\warehouse\\addsupply\\addsupplycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|solutionrelative:libraff.application\\cqrs\\commands\\warehouse\\addsupply\\addsupplycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B690B8-6D94-4936-BC24-CC8DE05A7F6B}|Libraff.Api\\Libraff.Api.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B690B8-6D94-4936-BC24-CC8DE05A7F6B}|Libraff.Api\\Libraff.Api.csproj|solutionrelative:libraff.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B690B8-6D94-4936-BC24-CC8DE05A7F6B}|Libraff.Api\\Libraff.Api.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.api\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B690B8-6D94-4936-BC24-CC8DE05A7F6B}|Libraff.Api\\Libraff.Api.csproj|solutionrelative:libraff.api\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|solutionrelative:libraff.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.application\\cqrs\\commands\\organization\\createemployee\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|solutionrelative:libraff.application\\cqrs\\commands\\organization\\createemployee\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\invoicenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\invoicenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\mappers\\booksupplymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\mappers\\booksupplymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\repositories\\ibooksupplyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\repositories\\ibooksupplyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\warehouse\\stockentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\warehouse\\stockentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\somemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\somemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\warehouse\\supplydetailentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\warehouse\\supplydetailentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\warehouse\\supplydetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\warehouse\\supplydetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\warehouse\\supplyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\warehouse\\supplyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\mappers\\employeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\mappers\\employeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\libraffdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\libraffdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\sales\\salesrecorddetailentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\sales\\salesrecorddetailentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\sales\\bonusdetailentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\sales\\bonusdetailentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\libraffv2contextdeletelater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\libraffv2contextdeletelater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\libraffv2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\libraffv2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\warehouse\\branchtransferentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\warehouse\\branchtransferentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\warehouse\\branchstockentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\warehouse\\branchstockentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\warehouse\\branchdeliverieshistoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\warehouse\\branchdeliverieshistoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\repositories\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\repositories\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\percent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\percent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\salaryrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\salaryrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.application\\behaviours\\exceptionhandlingpipelinebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|solutionrelative:libraff.application\\behaviours\\exceptionhandlingpipelinebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\constants\\domainerrormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\constants\\domainerrormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\organization\\branchpositionlimitentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\organization\\branchpositionlimitentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\sales\\sellingpriceentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\sales\\sellingpriceentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\sales\\salesrecordentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\sales\\salesrecordentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\sales\\discounttypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\sales\\discounttypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\sales\\discountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\sales\\discountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\sales\\bonusentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\sales\\bonusentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\organization\\branchentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\organization\\branchentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\content\\genreentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\content\\genreentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\content\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\content\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\content\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\content\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\sales\\discounttypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\sales\\discounttypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\warehouse\\stockconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\warehouse\\stockconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\warehouse\\branchtransferconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\warehouse\\branchtransferconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\warehouse\\branchstockconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\warehouse\\branchstockconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\warehouse\\branchdeliverieshistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\warehouse\\branchdeliverieshistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\sales\\sellingpriceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\sales\\sellingpriceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\sales\\salesrecorddetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\sales\\salesrecorddetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\sales\\salesrecordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\sales\\salesrecordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\sales\\discountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\sales\\discountconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\sales\\bonusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\sales\\bonusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\sales\\bonusdetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\sales\\bonusdetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\content\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\content\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\content\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\content\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\content\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\content\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\organization\\positionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\organization\\positionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\libraff.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\libraff.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B690B8-6D94-4936-BC24-CC8DE05A7F6B}|Libraff.Api\\Libraff.Api.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B690B8-6D94-4936-BC24-CC8DE05A7F6B}|Libraff.Api\\Libraff.Api.csproj|solutionrelative:libraff.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.application\\behaviours\\loggingpipelinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|solutionrelative:libraff.application\\behaviours\\loggingpipelinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.application\\cqrs\\commands\\organization\\transferemployee\\transferemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|solutionrelative:libraff.application\\cqrs\\commands\\organization\\transferemployee\\transferemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.application\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|solutionrelative:libraff.application\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.application\\cqrs\\commands\\organization\\transferemployee\\transferemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|solutionrelative:libraff.application\\cqrs\\commands\\organization\\transferemployee\\transferemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.application\\cqrs\\commands\\organization\\createemployee\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|solutionrelative:libraff.application\\cqrs\\commands\\organization\\createemployee\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.application\\libraff.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|solutionrelative:libraff.application\\libraff.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\organization\\branchpositionsalarylimitentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\organization\\branchpositionsalarylimitentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\organization\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\organization\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\errors\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\errors\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\constants\\regexexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\constants\\regexexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\contactnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\contactnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\organization\\personconfiguration.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\organization\\personconfiguration.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\organization\\employmenthistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\organization\\employmenthistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\constants\\domainconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\constants\\domainconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\organization\\employmenthistoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\organization\\employmenthistoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\organization\\personentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\organization\\personentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\repositories\\positionlimitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\repositories\\positionlimitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\organization\\roleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\organization\\roleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\entities\\organization\\positionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\entities\\organization\\positionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\organization\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\organization\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\organization\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\organization\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\organization\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\organization\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\organization\\branchpositionlimitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\organization\\branchpositionlimitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.infastructure\\persistence\\configurations\\organization\\branchpositionsalarylimitconfiguration.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7648CB5-06F9-4393-8911-EDA2A59FC085}|Libraff.Infastructure\\Libraff.Infrastructure.csproj|solutionrelative:libraff.infastructure\\persistence\\configurations\\organization\\branchpositionsalarylimitconfiguration.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B690B8-6D94-4936-BC24-CC8DE05A7F6B}|Libraff.Api\\Libraff.Api.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23B690B8-6D94-4936-BC24-CC8DE05A7F6B}|Libraff.Api\\Libraff.Api.csproj|solutionrelative:libraff.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B690B8-6D94-4936-BC24-CC8DE05A7F6B}|Libraff.Api\\Libraff.Api.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23B690B8-6D94-4936-BC24-CC8DE05A7F6B}|Libraff.Api\\Libraff.Api.csproj|solutionrelative:libraff.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.domain\\repositories\\ipositionlimitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C5FD-3D57-451E-8245-22A600B19782}|Libraff.Domain\\Libraff.Domain.csproj|solutionrelative:libraff.domain\\repositories\\ipositionlimitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B690B8-6D94-4936-BC24-CC8DE05A7F6B}|Libraff.Api\\Libraff.Api.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23B690B8-6D94-4936-BC24-CC8DE05A7F6B}|Libraff.Api\\Libraff.Api.csproj|solutionrelative:libraff.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|c:\\users\\g513ie\\source\\repos\\libraff\\libraff.application\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82F42A5-83BA-4486-A5CD-A040F666B3E2}|Libraff.Application\\Libraff.Application.csproj|solutionrelative:libraff.application\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookSupplyService.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Services\\BookSupplyService.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Services\\BookSupplyService.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Services\\BookSupplyService.cs",
+              "RelativeToolTip": "Libraff.Domain\\Services\\BookSupplyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:11:52.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddSupplyCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\CQRS\\Commands\\Warehouse\\AddSupply\\AddSupplyCommandHandler.cs",
+              "RelativeDocumentMoniker": "Libraff.Application\\CQRS\\Commands\\Warehouse\\AddSupply\\AddSupplyCommandHandler.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\CQRS\\Commands\\Warehouse\\AddSupply\\AddSupplyCommandHandler.cs",
+              "RelativeToolTip": "Libraff.Application\\CQRS\\Commands\\Warehouse\\AddSupply\\AddSupplyCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T15:31:47.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookSupply.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\BookSupply.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\BookSupply.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\BookSupply.cs",
+              "RelativeToolTip": "Libraff.Domain\\BookSupply.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:08:57.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookSupplyDetail.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\BookSupplyDetail.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\BookSupplyDetail.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\BookSupplyDetail.cs",
+              "RelativeToolTip": "Libraff.Domain\\BookSupplyDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:09:00.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookSupplyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Repositories\\BookSupplyRepository.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Repositories\\BookSupplyRepository.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Repositories\\BookSupplyRepository.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Repositories\\BookSupplyRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:38:25.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupplyEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\SupplyEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\SupplyEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\SupplyEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\SupplyEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:35:20.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\UnitOfWork.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T06:56:56.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:11:34.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddSupplyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\CQRS\\Commands\\Warehouse\\AddSupply\\AddSupplyCommand.cs",
+              "RelativeDocumentMoniker": "Libraff.Application\\CQRS\\Commands\\Warehouse\\AddSupply\\AddSupplyCommand.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\CQRS\\Commands\\Warehouse\\AddSupply\\AddSupplyCommand.cs",
+              "RelativeToolTip": "Libraff.Application\\CQRS\\Commands\\Warehouse\\AddSupply\\AddSupplyCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T15:27:49.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Libraff.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Api\\Program.cs",
+              "RelativeToolTip": "Libraff.Api\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAlwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:19:07.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrganizationController.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Api\\Controllers\\OrganizationController.cs",
+              "RelativeDocumentMoniker": "Libraff.Api\\Controllers\\OrganizationController.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Api\\Controllers\\OrganizationController.cs",
+              "RelativeToolTip": "Libraff.Api\\Controllers\\OrganizationController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:55:08.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WarehouseController.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Api\\Controllers\\WarehouseController.cs",
+              "RelativeDocumentMoniker": "Libraff.Api\\Controllers\\WarehouseController.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Api\\Controllers\\WarehouseController.cs",
+              "RelativeToolTip": "Libraff.Api\\Controllers\\WarehouseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T15:25:14.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Libraff.Domain\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:28:22.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Libraff.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Libraff.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:12:43.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\CQRS\\Commands\\Organization\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "Libraff.Application\\CQRS\\Commands\\Organization\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\CQRS\\Commands\\Organization\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "Libraff.Application\\CQRS\\Commands\\Organization\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T18:01:13.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InvoiceNumber.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\InvoiceNumber.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\InvoiceNumber.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\InvoiceNumber.cs",
+              "RelativeToolTip": "Libraff.Domain\\InvoiceNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:45:06.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookSupplyMapper.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Mappers\\BookSupplyMapper.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Mappers\\BookSupplyMapper.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Mappers\\BookSupplyMapper.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Mappers\\BookSupplyMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:42:17.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBookSupplyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Repositories\\IBookSupplyRepository.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Repositories\\IBookSupplyRepository.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Repositories\\IBookSupplyRepository.cs",
+              "RelativeToolTip": "Libraff.Domain\\Repositories\\IBookSupplyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:08:37.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StockEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\StockEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\StockEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\StockEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\StockEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:35:12.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SomeModel.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\SomeModel.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\SomeModel.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\SomeModel.cs",
+              "RelativeToolTip": "Libraff.Domain\\SomeModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:16:34.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SupplyDetailEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\SupplyDetailEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\SupplyDetailEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\SupplyDetailEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\SupplyDetailEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:35:30.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SupplyDetailConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\SupplyDetailConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\SupplyDetailConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\SupplyDetailConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\SupplyDetailConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:51:08.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SupplyConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\SupplyConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\SupplyConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\SupplyConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\SupplyConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:50:00.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeMapper.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Mappers\\EmployeeMapper.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Mappers\\EmployeeMapper.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Mappers\\EmployeeMapper.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Mappers\\EmployeeMapper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:53:17.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LibraffDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\LibraffDbContext.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\LibraffDbContext.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\LibraffDbContext.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\LibraffDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:34:32.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SalesRecordDetailEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Sales\\SalesRecordDetailEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Sales\\SalesRecordDetailEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Sales\\SalesRecordDetailEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Sales\\SalesRecordDetailEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:30:15.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BonusDetailEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Sales\\BonusDetailEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Sales\\BonusDetailEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Sales\\BonusDetailEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Sales\\BonusDetailEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:28:42.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LibraffV2ContextDeleteLater.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\LibraffV2ContextDeleteLater.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\LibraffV2ContextDeleteLater.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\LibraffV2ContextDeleteLater.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\LibraffV2ContextDeleteLater.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:36:37.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LibraffV2Context.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\LibraffV2Context.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\LibraffV2Context.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\LibraffV2Context.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\LibraffV2Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:59:40.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BranchTransferEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\BranchTransferEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\BranchTransferEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\BranchTransferEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\BranchTransferEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:35:06.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BranchStockEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\BranchStockEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\BranchStockEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\BranchStockEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\BranchStockEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:33:58.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BranchDeliveriesHistoryEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\BranchDeliveriesHistoryEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\BranchDeliveriesHistoryEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\BranchDeliveriesHistoryEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Warehouse\\BranchDeliveriesHistoryEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:32:33.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Libraff.Domain\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:19:29.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Libraff.Domain\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAqwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:17:11.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Repositories\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Repositories\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Repositories\\IStockRepository.cs",
+              "RelativeToolTip": "Libraff.Domain\\Repositories\\IStockRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:50:15.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Percent.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Percent.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Percent.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Percent.cs",
+              "RelativeToolTip": "Libraff.Domain\\Percent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:14:20.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Book.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Book.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Book.cs",
+              "RelativeToolTip": "Libraff.Domain\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:04:36.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Employee.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Employee.cs",
+              "RelativeToolTip": "Libraff.Domain\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:19:10.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Pin.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Pin.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Pin.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Pin.cs",
+              "RelativeToolTip": "Libraff.Domain\\Pin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:18:21.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SalaryRange.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\SalaryRange.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\SalaryRange.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\SalaryRange.cs",
+              "RelativeToolTip": "Libraff.Domain\\SalaryRange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:00:54.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ExceptionHandlingPipelineBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\Behaviours\\ExceptionHandlingPipelineBehavior.cs",
+              "RelativeDocumentMoniker": "Libraff.Application\\Behaviours\\ExceptionHandlingPipelineBehavior.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\Behaviours\\ExceptionHandlingPipelineBehavior.cs",
+              "RelativeToolTip": "Libraff.Application\\Behaviours\\ExceptionHandlingPipelineBehavior.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T05:49:01.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BranchPositionLimitEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\BranchPositionLimitEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\BranchPositionLimitEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\BranchPositionLimitEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\BranchPositionLimitEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:52:39.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DomainErrorMessages.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Constants\\DomainErrorMessages.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Constants\\DomainErrorMessages.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Constants\\DomainErrorMessages.cs",
+              "RelativeToolTip": "Libraff.Domain\\Constants\\DomainErrorMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:13:34.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Discount.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Discount.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Discount.cs",
+              "RelativeToolTip": "Libraff.Domain\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:47:40.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SellingPriceEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Sales\\SellingPriceEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Sales\\SellingPriceEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Sales\\SellingPriceEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Sales\\SellingPriceEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:30:23.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SalesRecordEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Sales\\SalesRecordEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Sales\\SalesRecordEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Sales\\SalesRecordEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Sales\\SalesRecordEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:30:01.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DiscountTypeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Sales\\DiscountTypeEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Sales\\DiscountTypeEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Sales\\DiscountTypeEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Sales\\DiscountTypeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:29:23.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DiscountEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Sales\\DiscountEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Sales\\DiscountEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Sales\\DiscountEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Sales\\DiscountEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:29:15.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BonusEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Sales\\BonusEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Sales\\BonusEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Sales\\BonusEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Sales\\BonusEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:29:37.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BranchEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\BranchEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\BranchEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\BranchEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\BranchEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:35:13.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GenreEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Content\\GenreEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Content\\GenreEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Content\\GenreEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Content\\GenreEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:41:55.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BookEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Content\\BookEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Content\\BookEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Content\\BookEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Content\\BookEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:41:51.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AuthorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Content\\AuthorEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Content\\AuthorEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Content\\AuthorEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Content\\AuthorEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:41:07.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DiscountTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Sales\\DiscountTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Sales\\DiscountTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Sales\\DiscountTypeConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Sales\\DiscountTypeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:52:40.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "StockConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\StockConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\StockConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\StockConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\StockConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:48:57.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BranchTransferConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\BranchTransferConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\BranchTransferConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\BranchTransferConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\BranchTransferConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:59:58.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "BranchStockConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\BranchStockConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\BranchStockConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\BranchStockConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\BranchStockConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:58:34.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BranchDeliveriesHistoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\BranchDeliveriesHistoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\BranchDeliveriesHistoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\BranchDeliveriesHistoryConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Warehouse\\BranchDeliveriesHistoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:57:11.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SellingPriceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Sales\\SellingPriceConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Sales\\SellingPriceConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Sales\\SellingPriceConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Sales\\SellingPriceConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:55:40.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SalesRecordDetailConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Sales\\SalesRecordDetailConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Sales\\SalesRecordDetailConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Sales\\SalesRecordDetailConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Sales\\SalesRecordDetailConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:54:42.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SalesRecordConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Sales\\SalesRecordConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Sales\\SalesRecordConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Sales\\SalesRecordConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Sales\\SalesRecordConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:53:28.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DiscountConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Sales\\DiscountConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Sales\\DiscountConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Sales\\DiscountConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Sales\\DiscountConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:51:25.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "BonusConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Sales\\BonusConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Sales\\BonusConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Sales\\BonusConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Sales\\BonusConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:50:23.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "BonusDetailConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Sales\\BonusDetailConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Sales\\BonusDetailConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Sales\\BonusDetailConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Sales\\BonusDetailConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:43:46.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "GenreConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Content\\GenreConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Content\\GenreConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Content\\GenreConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Content\\GenreConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:48:40.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AuthorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Content\\AuthorConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Content\\AuthorConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Content\\AuthorConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Content\\AuthorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:46:42.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Content\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Content\\BookConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Content\\BookConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Content\\BookConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:45:15.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "PositionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\PositionConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\PositionConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\PositionConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\PositionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:31:17.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "LoggingPipelineBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\Behaviours\\LoggingPipelineBehaviour.cs",
+              "RelativeDocumentMoniker": "Libraff.Application\\Behaviours\\LoggingPipelineBehaviour.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\Behaviours\\LoggingPipelineBehaviour.cs",
+              "RelativeToolTip": "Libraff.Application\\Behaviours\\LoggingPipelineBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T16:31:19.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "TransferEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\CQRS\\Commands\\Organization\\TransferEmployee\\TransferEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "Libraff.Application\\CQRS\\Commands\\Organization\\TransferEmployee\\TransferEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\CQRS\\Commands\\Organization\\TransferEmployee\\TransferEmployeeCommandHandler.cs",
+              "RelativeToolTip": "Libraff.Application\\CQRS\\Commands\\Organization\\TransferEmployee\\TransferEmployeeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T17:38:40.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Libraff.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Libraff.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Libraff.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Libraff.Infrastructure.csproj",
+              "RelativeToolTip": "Libraff.Infastructure\\Libraff.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T16:03:34.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Api\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Libraff.Api\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Api\\GlobalUsings.cs",
+              "RelativeToolTip": "Libraff.Api\\GlobalUsings.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T05:54:25.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Libraff.Application\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\GlobalUsings.cs",
+              "RelativeToolTip": "Libraff.Application\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T05:51:17.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TransferEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\CQRS\\Commands\\Organization\\TransferEmployee\\TransferEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "Libraff.Application\\CQRS\\Commands\\Organization\\TransferEmployee\\TransferEmployeeCommand.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\CQRS\\Commands\\Organization\\TransferEmployee\\TransferEmployeeCommand.cs",
+              "RelativeToolTip": "Libraff.Application\\CQRS\\Commands\\Organization\\TransferEmployee\\TransferEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T17:38:31.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CreateEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\CQRS\\Commands\\Organization\\CreateEmployee\\CreateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "Libraff.Application\\CQRS\\Commands\\Organization\\CreateEmployee\\CreateEmployeeCommand.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\CQRS\\Commands\\Organization\\CreateEmployee\\CreateEmployeeCommand.cs",
+              "RelativeToolTip": "Libraff.Application\\CQRS\\Commands\\Organization\\CreateEmployee\\CreateEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T18:01:04.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Libraff.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\Libraff.Application.csproj",
+              "RelativeDocumentMoniker": "Libraff.Application\\Libraff.Application.csproj",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\Libraff.Application.csproj",
+              "RelativeToolTip": "Libraff.Application\\Libraff.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T17:56:53.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\GlobalUsings.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:34:59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\UserEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:52:40.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Errors\\Error.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Errors\\Error.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Errors\\Error.cs",
+              "RelativeToolTip": "Libraff.Domain\\Errors\\Error.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T16:48:35.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "BranchPositionSalaryLimitEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\BranchPositionSalaryLimitEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\BranchPositionSalaryLimitEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\BranchPositionSalaryLimitEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\BranchPositionSalaryLimitEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:52:15.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "RegexExpressions.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Constants\\RegexExpressions.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Constants\\RegexExpressions.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Constants\\RegexExpressions.cs",
+              "RelativeToolTip": "Libraff.Domain\\Constants\\RegexExpressions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T16:17:18.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ContactNumber.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\ContactNumber.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\ContactNumber.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\ContactNumber.cs",
+              "RelativeToolTip": "Libraff.Domain\\ContactNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:10:52.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:21:14.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "EmploymentHistoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\EmploymentHistoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\EmploymentHistoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\EmploymentHistoryConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\EmploymentHistoryConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:37:56.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "PersonConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\PersonConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\PersonConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\PersonConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\PersonConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:33:06.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "DomainConstraints.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Constants\\DomainConstraints.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Constants\\DomainConstraints.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Constants\\DomainConstraints.cs",
+              "RelativeToolTip": "Libraff.Domain\\Constants\\DomainConstraints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:32:02.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "EmploymentHistoryEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\EmploymentHistoryEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\EmploymentHistoryEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\EmploymentHistoryEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\EmploymentHistoryEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:52:42.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "PersonEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\PersonEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\PersonEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\PersonEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\PersonEntity.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T06:21:19.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "PositionLimitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Repositories\\PositionLimitRepository.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Repositories\\PositionLimitRepository.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Repositories\\PositionLimitRepository.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Repositories\\PositionLimitRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:41:53.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "RoleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\RoleEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\RoleEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\RoleEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\RoleEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:34:58.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "PositionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\PositionEntity.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\PositionEntity.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Entities\\Organization\\PositionEntity.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Entities\\Organization\\PositionEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T06:21:26.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\UserConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:33:41.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\RoleConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\RoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:33:31.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "BranchConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\BranchConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\BranchConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\BranchConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\BranchConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:27:36.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "BranchPositionLimitConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\BranchPositionLimitConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\BranchPositionLimitConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\BranchPositionLimitConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\BranchPositionLimitConfiguration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:31:04.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "BranchPositionSalaryLimitConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\BranchPositionSalaryLimitConfiguration.cs",
+              "RelativeDocumentMoniker": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\BranchPositionSalaryLimitConfiguration.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Infastructure\\Persistence\\Configurations\\Organization\\BranchPositionSalaryLimitConfiguration.cs",
+              "RelativeToolTip": "Libraff.Infastructure\\Persistence\\Configurations\\Organization\\BranchPositionSalaryLimitConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:31:23.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Libraff.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Libraff.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T17:52:54.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Libraff.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Libraff.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T09:32:45.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "IPositionLimitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Repositories\\IPositionLimitRepository.cs",
+              "RelativeDocumentMoniker": "Libraff.Domain\\Repositories\\IPositionLimitRepository.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Domain\\Repositories\\IPositionLimitRepository.cs",
+              "RelativeToolTip": "Libraff.Domain\\Repositories\\IPositionLimitRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:24:10.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Libraff.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Api\\appsettings.json",
+              "RelativeToolTip": "Libraff.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T09:32:42.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Libraff.Application\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\G513IE\\source\\repos\\Libraff\\Libraff.Application\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "Libraff.Application\\Abstractions\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T06:55:37.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

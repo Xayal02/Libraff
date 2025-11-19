@@ -1,0 +1,15 @@
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\bin\Release\net9.0\Libraff.Application.deps.json
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\bin\Release\net9.0\Libraff.Application.dll
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\bin\Release\net9.0\Libraff.Application.pdb
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\bin\Release\net9.0\Libraff.Domain.dll
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\bin\Release\net9.0\Libraff.Domain.pdb
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Release\net9.0\Libraff.Application.csproj.AssemblyReference.cache
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Release\net9.0\Libraff.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Release\net9.0\Libraff.Application.AssemblyInfoInputs.cache
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Release\net9.0\Libraff.Application.AssemblyInfo.cs
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Release\net9.0\Libraff.Application.csproj.CoreCompileInputs.cache
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Release\net9.0\Libraff..DA9DD81C.Up2Date
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Release\net9.0\Libraff.Application.dll
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Release\net9.0\refint\Libraff.Application.dll
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Release\net9.0\Libraff.Application.pdb
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Release\net9.0\ref\Libraff.Application.dll
