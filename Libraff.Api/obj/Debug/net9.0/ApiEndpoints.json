@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "Libraff.Api.Controllers.OrganizationController",
+    "Method": "CreateEmployee",
+    "RelativePath": "api/employees",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Libraff.Application.CQRS.Commands.Organization.CreateEmployee.CreateEmployeeCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Libraff.Api.Controllers.WarehouseController",
+    "Method": "AddSupply",
+    "RelativePath": "api/warehouse",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Libraff.Application.CQRS.Commands.Warehouse.AddSupply.AddSupplyCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Libraff.Api.Controllers.OrganizationController",
+    "Method": "TransferEmployee",
+    "RelativePath": "transfer",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Libraff.Application.CQRS.Commands.Organization.TransferEmployee.TransferEmployeeCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

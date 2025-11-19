@@ -1,0 +1,11 @@
+C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\bin\Release\net9.0\Libraff.Domain.deps.json
+C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\bin\Release\net9.0\Libraff.Domain.dll
+C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\bin\Release\net9.0\Libraff.Domain.pdb
+C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\obj\Release\net9.0\Libraff.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\obj\Release\net9.0\Libraff.Domain.AssemblyInfoInputs.cache
+C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\obj\Release\net9.0\Libraff.Domain.AssemblyInfo.cs
+C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\obj\Release\net9.0\Libraff.Domain.csproj.CoreCompileInputs.cache
+C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\obj\Release\net9.0\Libraff.Domain.dll
+C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\obj\Release\net9.0\refint\Libraff.Domain.dll
+C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\obj\Release\net9.0\Libraff.Domain.pdb
+C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\obj\Release\net9.0\ref\Libraff.Domain.dll
