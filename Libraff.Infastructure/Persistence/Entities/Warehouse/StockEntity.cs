@@ -11,4 +11,5 @@ public partial class StockEntity
     public DateTime? ModifiedAt { get; set; }
 
     public virtual SupplyDetailEntity SupplyDetail { get; set; } = null!;
+
 }

@@ -10,3 +10,4 @@ C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\obj\Debug\net9.0\refint\Libr
 C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\obj\Debug\net9.0\Libraff.Domain.pdb
 C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\obj\Debug\net9.0\ref\Libraff.Domain.dll
 C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\obj\Debug\net9.0\Libraff.Domain.csproj.AssemblyReference.cache
+C:\Users\G513IE\source\repos\Libraff\Libraff.Domain\obj\Debug\net9.0\Libraff.Domain.sourcelink.json

@@ -1,4 +1,6 @@
 ﻿using Libraff.Domain.Constants;
+using Libraff.Domain.Exceptions;
+
 
 namespace Libraff.Domain
 {
@@ -9,7 +11,7 @@ namespace Libraff.Domain
         private Percent(short value)
         {
             if (value < 0 || value > 100)
-                throw new ArgumentOutOfRangeException(DomainErrorMessages.InvalidValue());
+                throw new ValidationException(DomainErrorMessages.InvalidValue());
 
             Value = value;
         }

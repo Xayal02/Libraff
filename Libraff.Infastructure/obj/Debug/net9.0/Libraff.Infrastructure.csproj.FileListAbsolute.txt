@@ -17,3 +17,4 @@ C:\Users\G513IE\source\repos\Libraff\Libraff.Infastructure\obj\Debug\net9.0\refi
 C:\Users\G513IE\source\repos\Libraff\Libraff.Infastructure\obj\Debug\net9.0\Libraff.Infrastructure.pdb
 C:\Users\G513IE\source\repos\Libraff\Libraff.Infastructure\obj\Debug\net9.0\Libraff.Infrastructure.genruntimeconfig.cache
 C:\Users\G513IE\source\repos\Libraff\Libraff.Infastructure\obj\Debug\net9.0\ref\Libraff.Infrastructure.dll
+C:\Users\G513IE\source\repos\Libraff\Libraff.Infastructure\obj\Debug\net9.0\Libraff.Infrastructure.sourcelink.json

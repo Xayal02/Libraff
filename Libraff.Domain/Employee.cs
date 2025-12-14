@@ -1,5 +1,7 @@
 ﻿using Libraff.Domain.Constants;
 using System.Runtime.CompilerServices;
+using Libraff.Domain.Exceptions;
+
 [assembly: InternalsVisibleTo("Libraff.Infrastructure")]
 
 namespace Libraff.Domain
@@ -45,25 +47,25 @@ namespace Libraff.Domain
             decimal salary)
         {
             if (employee is null)
-                throw new ArgumentException(DomainErrorMessages.Required(nameof(Employee)));
+                throw new ValidationException(DomainErrorMessages.Required(nameof(Employee)));
 
             if (string.IsNullOrEmpty(firstName))
-                throw new ArgumentException(DomainErrorMessages.Required(nameof(FirstName)));
+                throw new ValidationException(DomainErrorMessages.Required(nameof(FirstName)));
 
             if (string.IsNullOrEmpty(lastName))
-                throw new ArgumentException(DomainErrorMessages.Required(nameof(LastName)));
+                throw new ValidationException(DomainErrorMessages.Required(nameof(LastName)));
 
             if (string.IsNullOrEmpty(residentialAddress))
-                throw new ArgumentException(DomainErrorMessages.Required(nameof(ResidentialAddress)));
+                throw new ValidationException(DomainErrorMessages.Required(nameof(ResidentialAddress)));
 
             if (branchId <= 0)
-                throw new ArgumentException(DomainErrorMessages.MustBeGreaterThanZero(nameof(BranchId)));
+                throw new ValidationException(DomainErrorMessages.MustBeGreaterThanZero(nameof(BranchId)));
 
             if (positionId <= 0)
-                throw new ArgumentException(DomainErrorMessages.MustBeGreaterThanZero(nameof(PositionId)));
+                throw new ValidationException(DomainErrorMessages.MustBeGreaterThanZero(nameof(PositionId)));
 
             if (salary <= 0)
-                throw new ArgumentException(DomainErrorMessages.MustBeGreaterThanZero(nameof(Salary)));
+                throw new ValidationException(DomainErrorMessages.MustBeGreaterThanZero(nameof(Salary)));
 
             employee.FirstName = firstName;
             employee.LastName = lastName;
@@ -127,31 +129,31 @@ namespace Libraff.Domain
             decimal salary)
         {
             if (string.IsNullOrEmpty(firstName))
-                throw new ArgumentException(DomainErrorMessages.Required(nameof(FirstName))); 
+                throw new ValidationException(DomainErrorMessages.Required(nameof(FirstName))); 
 
             if (string.IsNullOrEmpty(lastName))
-                throw new ArgumentException(DomainErrorMessages.Required(nameof(LastName))); 
+                throw new ValidationException(DomainErrorMessages.Required(nameof(LastName))); 
 
             if (string.IsNullOrEmpty(patronymic))
-                throw new ArgumentException(DomainErrorMessages.Required(nameof(Patronymic)));
+                throw new ValidationException(DomainErrorMessages.Required(nameof(Patronymic)));
 
             if (!dateOfBirth.HasValue)
-                throw new ArgumentException(DomainErrorMessages.Required(nameof(DateOfBirth)));
+                throw new ValidationException(DomainErrorMessages.Required(nameof(DateOfBirth)));
 
             if (DateTime.Now.Year - dateOfBirth.Value.Year < DomainConstraints.ElligibleWorkAge)
-                throw new ArgumentException("dateOfBirth"); 
+                throw new ValidationException(DomainErrorMessages.UnderEligibleWorkingAge);
 
             if (string.IsNullOrEmpty(residentialAddress))
-                throw new ArgumentException(DomainErrorMessages.Required(nameof(ResidentialAddress)));
+                throw new ValidationException(DomainErrorMessages.Required(nameof(ResidentialAddress)));
 
             if (branchId <= 0)
-                throw new ArgumentException(DomainErrorMessages.MustBeGreaterThanZero(nameof(BranchId)));
+                throw new ValidationException(DomainErrorMessages.MustBeGreaterThanZero(nameof(BranchId)));
 
             if (positionId <= 0)
-                throw new ArgumentException(DomainErrorMessages.MustBeGreaterThanZero(nameof(PositionId)));
+                throw new ValidationException(DomainErrorMessages.MustBeGreaterThanZero(nameof(PositionId)));
 
             if (salary <= 0)
-                throw new ArgumentException(DomainErrorMessages.MustBeGreaterThanZero(nameof(Salary)));
+                throw new ValidationException(DomainErrorMessages.MustBeGreaterThanZero(nameof(Salary)));
 
 
             return new Employee
@@ -180,6 +182,11 @@ namespace Libraff.Domain
                 dateOfBirth.Value, residentialAddress, contractNumber,
                 workStartDate, positionId, branchId, salary, id,workEndDate);
 
+        }
+
+        public static Employee? Empty()
+        {
+            return null;
         }
     }
 

@@ -13,3 +13,4 @@ C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Debug\net9.0\Libraf
 C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Debug\net9.0\refint\Libraff.Application.dll
 C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Debug\net9.0\Libraff.Application.pdb
 C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Debug\net9.0\ref\Libraff.Application.dll
+C:\Users\G513IE\source\repos\Libraff\Libraff.Application\obj\Debug\net9.0\Libraff.Application.sourcelink.json

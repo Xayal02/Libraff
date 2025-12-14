@@ -1,4 +1,4 @@
-
+using Libraff.Api.Jobs;
 using Libraff.Application.Extensions;
 using Libraff.Domain.Extensions;
 using Libraff.Infrastructure.Extensions;
@@ -11,21 +11,17 @@ namespace Libraff.Api
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
-
             builder.Services.AddControllers();
             builder.Services.AddSwaggerGen();
             builder.Services.AddInfrastructureServices(builder.Configuration);
             builder.Services.AddApplicationServices();
             builder.Services.AddDomainServices();
 
-            // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddOpenApi();
 
 
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
                 app.MapOpenApi();
@@ -41,6 +37,7 @@ namespace Libraff.Api
             AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 
             app.MapControllers();
+
 
             app.Run();
         }

@@ -3,7 +3,7 @@ using Libraff.Domain.Repositories;
 
 namespace Libraff.Infrastructure.Persistence.Repositories
 {
-    public class PositionLimitRepository(LibraffDbContext dbContext) : IPositionLimitRepository
+    internal class PositionLimitRepository(LibraffDbContext dbContext) : IPositionLimitRepository
     {
         public async Task<int> GetMaxAllowedEmployeeCountAsync(int branchId, int positionId, CancellationToken cancellationToken)
         {

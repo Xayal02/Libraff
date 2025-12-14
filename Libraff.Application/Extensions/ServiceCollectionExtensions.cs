@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Libraff.Application.Behaviours;
+using Microsoft.Extensions.DependencyInjection;
+using static CSharpFunctionalExtensions.Result;
 
 namespace Libraff.Application.Extensions
 {
@@ -9,7 +11,12 @@ namespace Libraff.Application.Extensions
             services.AddMediatR(configuration =>
             {
                 configuration.RegisterServicesFromAssembly(typeof(ServiceCollectionExtensions).Assembly);
+                configuration.AddOpenBehavior(typeof(ExceptionHandlingPipelineBehavior<,>));
+
             });
+
+
+
 
             return services;
         }

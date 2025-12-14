@@ -1,4 +1,6 @@
 ﻿using Libraff.Domain.Constants;
+using Libraff.Domain.Exceptions;
+
 
 namespace Libraff.Domain
 {
@@ -9,7 +11,7 @@ namespace Libraff.Domain
         private InvoiceNumber(string value)
         {
             if (string.IsNullOrEmpty(value))
-                throw new ArgumentException(DomainErrorMessages.InvalidValue(nameof(InvoiceNumber)));
+                throw new ValidationException(DomainErrorMessages.InvalidValue(nameof(InvoiceNumber)));
 
             Value = value.ToUpper();
         }

@@ -1,4 +1,5 @@
 ﻿using Libraff.Domain.Constants;
+using Libraff.Domain.Exceptions;
 using System.Text.RegularExpressions;
 
 namespace Libraff.Domain
@@ -9,12 +10,12 @@ namespace Libraff.Domain
         private Pin(string value)
         {
             if (string.IsNullOrEmpty(value))
-                throw new ArgumentNullException("Value cannot be null");
+                throw new ValidationException("Value cannot be null");
 
             string formattedValue = value.Trim().ToUpper();
 
             if (!Regex.IsMatch(formattedValue, RegexExpressions.AzerbaijanIndentityCardNumberFormat))
-                throw new ArgumentException("Invalid Azerbaijani FIN code format.");
+                throw new ValidationException("Invalid Azerbaijani FIN code format.");
 
             Value = formattedValue;
 

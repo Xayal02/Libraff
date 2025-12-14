@@ -2,7 +2,7 @@
 
 namespace Libraff.Domain.Errors
 {
-    public class Error
+    public class Error : IError
     {
         public int Code { get; private set; }
         public string Message { get; private set; }
@@ -28,13 +28,5 @@ namespace Libraff.Domain.Errors
             new Error(StatusCodes.Status500InternalServerError, message, ErrorType.UnExpected);
 
 
-    }
-
-    public enum ErrorType
-    {
-        BadRequest,
-        NotFound,
-        Conflict,
-        UnExpected
     }
 }
