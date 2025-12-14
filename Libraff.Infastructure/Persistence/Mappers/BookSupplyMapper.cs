@@ -4,7 +4,7 @@ namespace Libraff.Infrastructure.Persistence.Mappers
 {
     internal class BookSupplyMapper
     {
-        public static (SupplyEntity, List<SupplyDetailEntity>, List<StockEntity>) ToEntities(BookSupply bookSupply)
+        public static (SupplyEntity, List<SupplyDetailEntity>, List<StockEntity>) ToNewEntities(BookSupply bookSupply)
         {
             SupplyEntity supplyEntity = new()
             {
@@ -46,5 +46,36 @@ namespace Libraff.Infrastructure.Persistence.Mappers
             return (supplyEntity, supplyDetailEntities, stockEntities);
 
         }
+
+        public static (SupplyDetailEntity,StockEntity) ToNewSupplyDetailAndStockEntities(int supplyId,   BookSupplyDetail bookSupplyDetail)
+        {
+
+            SupplyDetailEntity supplyDetailEntity = new SupplyDetailEntity()
+            {
+                SupplyId = supplyId,
+                BookId = bookSupplyDetail.BookId,
+                InitialCount = bookSupplyDetail.Count,
+                PricePerBook = bookSupplyDetail.PricePerBook
+            };
+
+            StockEntity stockEntity = new()
+            { 
+                AvailableCount = bookSupplyDetail.Count,
+                SupplyDetail = supplyDetailEntity
+            };
+
+            return (supplyDetailEntity, stockEntity);
+
+        }
+
+        public static (SupplyDetailEntity, StockEntity) ToUpdatedSupplyDetailAndStockEntities(BookSupplyDetail bookSupplyDetail, SupplyDetailEntity supplyDetailEntity, StockEntity stockEntity )
+        {
+            supplyDetailEntity.InitialCount += bookSupplyDetail.Count;
+            stockEntity.AvailableCount += bookSupplyDetail.Count; //also possible to add modified_at and modified_by in future (I didnt take into consideration this properties)
+
+            return (supplyDetailEntity, stockEntity);
+        }
+
     }
+
 }

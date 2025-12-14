@@ -1,21 +1,21 @@
 ﻿using Libraff.Domain.Constants;
+using Libraff.Domain.Exceptions;
 
 namespace Libraff.Domain
 {
     public class BookSupplyDetail
     {
-        public int SupplyId { get; }
         public int BookId { get;  }
         public decimal PricePerBook { get; private set; }
-        public int Count { get; internal set; }
+        public int Count { get; internal set; } 
 
         private BookSupplyDetail(int bookId, decimal pricePerBook, int count)
         {
             if (bookId <= 0)
-                throw new ArgumentException(DomainErrorMessages.Required(nameof(BookId)));
+                throw new ValidationException(DomainErrorMessages.Required(nameof(BookId)));
 
             if (pricePerBook <= 0)
-                throw new ArgumentException(DomainErrorMessages.Required(nameof(PricePerBook)));
+                throw new ValidationException(DomainErrorMessages.Required(nameof(PricePerBook)));
 
             BookId = bookId;
             PricePerBook = pricePerBook;
@@ -26,6 +26,11 @@ namespace Libraff.Domain
         {
             return new BookSupplyDetail(bookId, pricePerBook, count);
 
+        }
+
+        public static BookSupplyDetail? Empty()
+        {
+            return null;
         }
     }
 

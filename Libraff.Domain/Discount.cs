@@ -1,4 +1,6 @@
 ﻿using Libraff.Domain.Constants;
+using Libraff.Domain.Exceptions;
+
 
 namespace Libraff.Domain
 {
@@ -13,13 +15,13 @@ namespace Libraff.Domain
         private Discount(int typeId, int referenceId, DateOnly validFrom, DateOnly validTo, Percent percent)
         {
             if (typeId <= 0)
-                throw new ArgumentException(DomainErrorMessages.MustBeGreaterThanZero(nameof(TypeId)));
+                throw new ValidationException(DomainErrorMessages.MustBeGreaterThanZero(nameof(TypeId)));
 
             if (referenceId <= 0)
-                throw new ArgumentException(DomainErrorMessages.MustBeGreaterThanZero(nameof(ReferenceId)));
+                throw new ValidationException(DomainErrorMessages.MustBeGreaterThanZero(nameof(ReferenceId)));
 
             if (validTo > validFrom)
-                throw new ArgumentOutOfRangeException(DomainErrorMessages.InvalidValues(nameof(ValidFrom), nameof(ValidTo)));
+                throw new ValidationException(DomainErrorMessages.InvalidValues(nameof(ValidFrom), nameof(ValidTo)));
 
             TypeId = typeId;
             ReferenceId = referenceId;

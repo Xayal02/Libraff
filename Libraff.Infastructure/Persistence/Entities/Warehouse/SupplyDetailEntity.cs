@@ -12,8 +12,6 @@ public partial class SupplyDetailEntity
 
     public decimal PricePerBook { get; set; }
 
-    public virtual ICollection<BranchDeliveriesHistoryEntity> BranchDeliveriesHistories { get; set; } = new List<BranchDeliveriesHistoryEntity>();
-
     public virtual ICollection<BranchStockEntity> BranchStocks { get; set; } = new List<BranchStockEntity>();
 
     public virtual ICollection<BranchTransferEntity> BranchTransfers { get; set; } = new List<BranchTransferEntity>();

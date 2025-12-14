@@ -8,7 +8,9 @@ public partial class BranchStockEntity
 
     public int SupplyDetailId { get; set; }
 
-    public short CurrentCount { get; set; }
+    public int CurrentCount { get; set; }
 
     public virtual SupplyDetailEntity SupplyDetail { get; set; } = null!;
+    public virtual ICollection<BranchDeliveriesHistoryEntity> BranchStockDeliveryHistories { get; set; } = new List<BranchDeliveriesHistoryEntity>();
+
 }

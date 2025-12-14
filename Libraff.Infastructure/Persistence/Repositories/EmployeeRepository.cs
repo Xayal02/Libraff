@@ -1,27 +1,16 @@
 ﻿using AutoMapper;
 using Libraff.Domain;
 using Libraff.Domain.Repositories;
-using Libraff.Infrastructure.Persistence.Entities;
 using Libraff.Infrastructure.Persistence.Mappers;
-using System.Threading;
 
 namespace Libraff.Infrastructure.Persistence.Repositories
 {
+    //I dont like the way I update entites , for updating entities first I get them from db,
+    //but since I tried to use Entity Framework I couldnt update the entity models without Id property
+    // I could use ExecuteUpdate method, bit it violates the unit of work principle since it SaveChanges automatically
+    // Did I created or used domain model incorrectly or I should Use Dapper ?
     internal class EmployeeRepository(LibraffDbContext _dbContext, IMapper _mapper) : IEmployeeRepository
     {
-        public async Task AddAsyncOld(Employee employee, CancellationToken cancellationToken)
-        {
-            PersonEntity personEntity = _mapper.Map<PersonEntity>(employee);
-
-            await _dbContext.Persons.AddAsync(personEntity,cancellationToken);
-
-            EmploymentHistoryEntity employment = _mapper.Map<EmploymentHistoryEntity>(employee);
-
-            employment.Person = personEntity;
-
-            await _dbContext.EmploymentHistories.AddAsync(employment, cancellationToken);
-
-        }
 
         public async Task AddAsync(Employee employee, CancellationToken cancellationToken)
         {
@@ -33,29 +22,11 @@ namespace Libraff.Infrastructure.Persistence.Repositories
 
         }
 
-        public async Task AddEmploymentHistoryAsyncOld(Employee employee, CancellationToken cancellationToken)
-        {
-            EmploymentHistoryEntity employment = _mapper.Map<EmploymentHistoryEntity>(employee);
-
-            await _dbContext.EmploymentHistories.AddAsync(employment, cancellationToken);
-        }
-
         public async Task AddEmploymentHistoryAsync(Employee employee, CancellationToken cancellationToken)
         {
             EmploymentHistoryEntity employment = EmployeeMapper.ToNewEmploymentHistoryEntity(employee);
 
             await _dbContext.EmploymentHistories.AddAsync(employment, cancellationToken);
-        }
-
-        public async Task UpdatePersonAsyncOld(Employee employee, CancellationToken cancellationToken)
-        {
-            PersonEntity personEntity = _mapper.Map<PersonEntity>(employee);
-
-            PersonEntity personExistingEntity = await GetPersonByIdAsync(employee.Id, cancellationToken);
-
-            _mapper.Map(employee, personExistingEntity);
-
-            _dbContext.Persons.Update(personExistingEntity);
         }
 
         public async Task UpdatePersonAsync(Employee employee, CancellationToken cancellationToken)
@@ -65,15 +36,6 @@ namespace Libraff.Infrastructure.Persistence.Repositories
             EmployeeMapper.ToUpdatedPersonEntity(personExistingEntity, employee);
 
             _dbContext.Persons.Update(personExistingEntity);
-        }
-
-        public async Task UpdateEmploymentHistoryAsyncOld(Employee employee, CancellationToken cancellationToken)
-        {
-            EmploymentHistoryEntity employmentHistoryEntity = await GetEmploymentByPersonIdAsync(employee.Id, cancellationToken);
-
-            _mapper.Map(employee, employmentHistoryEntity);
-
-            _dbContext.EmploymentHistories.Update(employmentHistoryEntity);
         }
 
         public async Task UpdateEmploymentHistoryAsync(Employee employee, CancellationToken cancellationToken)
@@ -104,7 +66,7 @@ namespace Libraff.Infrastructure.Persistence.Repositories
                 .LastOrDefaultAsync(cancellationToken);
 
             if (entity is null)
-                return null; //dislike this code
+                return Employee.Empty();
 
             Employee result = EmployeeMapper.ToDomain(entity);
 

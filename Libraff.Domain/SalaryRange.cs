@@ -1,4 +1,5 @@
 ﻿using Libraff.Domain.Constants;
+using Libraff.Domain.Exceptions;
 
 namespace Libraff.Domain
 {
@@ -10,13 +11,13 @@ namespace Libraff.Domain
         private SalaryRange(decimal miniumValue, decimal maximumValue)
         {
             if (miniumValue <= 0)
-                throw new ArgumentException(DomainErrorMessages.InvalidValue()); 
+                throw new ValidationException(DomainErrorMessages.InvalidValue()); 
 
             if (maximumValue <= 0)
-                throw new ArgumentException(DomainErrorMessages.InvalidValue());
+                throw new ValidationException(DomainErrorMessages.InvalidValue());
 
             if (miniumValue >= maximumValue)
-                throw new ArgumentException(DomainErrorMessages.SalaryRangeInvalid);
+                throw new ValidationException(DomainErrorMessages.SalaryRangeInvalid);
 
             MiniumValue = miniumValue;
             MaximumValue = maximumValue;

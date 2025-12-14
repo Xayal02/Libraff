@@ -1,4 +1,5 @@
 ﻿using Libraff.Domain.Constants;
+using Libraff.Domain.Exceptions;
 using Libraff.Domain.Repositories;
 
 namespace Libraff.Domain.Services
@@ -113,7 +114,7 @@ namespace Libraff.Domain.Services
             SalaryRange? salaryRange = await _positionLimitRepository.GetSalaryRangeAsync(
                 branchId, positionId, cancellationToken);
 
-            if (salaryRange is null) throw new ArgumentNullException(); //errorMessage , add here notfound exception or use result pattern
+            if (salaryRange is null) throw new NotFoundException(DomainErrorMessages.SalaryRangeNotFound);
 
             return salary >= salaryRange.MiniumValue && salary <= salaryRange.MaximumValue;
 

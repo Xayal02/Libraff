@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Libraff.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd7d7e7c3bce44568c5ab7ab1b1b2930d541857d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Libraff.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Libraff.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

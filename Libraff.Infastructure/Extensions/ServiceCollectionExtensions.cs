@@ -1,4 +1,6 @@
-﻿using Libraff.Application.Abstractions;
+﻿using Hangfire;
+using Hangfire.PostgreSql;
+using Libraff.Application.Abstractions;
 using Libraff.Domain.Repositories;
 using Libraff.Infrastructure.Persistence;
 using Libraff.Infrastructure.Persistence.Repositories;
@@ -16,14 +18,23 @@ namespace Libraff.Infrastructure.Extensions
             services.AddScoped<IEmployeeRepository, EmployeeRepository>();
             services.AddScoped<IPositionLimitRepository, PositionLimitRepository>();
             services.AddScoped<IBookSupplyRepository, BookSupplyRepository>();
+            services.AddScoped<IBranchStockRepository, BranchStockRepository>();
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
+            string connectionString = (configuration.GetConnectionString("DefaultConnection"))!;
 
             services.AddDbContext<LibraffDbContext>(options =>
-            options.UseNpgsql(configuration.GetConnectionString("DefaultConnection")));
+            options.UseNpgsql(connectionString));
+
+            services.AddHangfire(configuration => configuration
+            .UsePostgreSqlStorage(options =>
+            options.UseNpgsqlConnection(connectionString)));
+
+            services.AddHangfireServer();
+
 
             return services;
 

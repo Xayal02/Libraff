@@ -1,5 +1,7 @@
 ﻿using Libraff.Domain.Constants;
 using System.Text.RegularExpressions;
+using Libraff.Domain.Exceptions;
+
 
 namespace Libraff.Domain
 {
@@ -10,7 +12,7 @@ namespace Libraff.Domain
         private ContactNumber(string value)
         {
             if (string.IsNullOrEmpty(value)) 
-                throw new ArgumentNullException("Value cannot be null");
+                throw new ValidationException("Value cannot be null");
 
             string formattedValue = value.Replace(" ", "")
                                          .Replace("-", "")
@@ -18,7 +20,7 @@ namespace Libraff.Domain
                                          .Replace(")", "");
 
             if (!Regex.IsMatch(formattedValue, RegexExpressions.AzerbaijanPhoneNumberFormat))
-                throw new ArgumentException("Invalid Azerbaijani mobile phone number format.");
+                throw new ValidationException("Invalid Azerbaijani mobile phone number format.");
 
             Value = formattedValue;
 

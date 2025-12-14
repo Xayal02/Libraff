@@ -1,12 +1,10 @@
 ﻿using Libraff.Application.CQRS.Commands.Organization.CreateEmployee;
 using Libraff.Application.CQRS.Commands.Organization.TransferEmployee;
-using MediatR;
-using Microsoft.AspNetCore.Mvc;
 
 namespace Libraff.Api.Controllers
 {
     [ApiController]
-    [Route("api/employees")]
+    [Route("api/v1/employees")]
     public class OrganizationController(IMediator _mediator) : ControllerBase
     {
         [HttpPost]
@@ -20,7 +18,7 @@ namespace Libraff.Api.Controllers
                 return Problem(responseData.Error.Message, statusCode: responseData.Error.Code);
         }
 
-        [HttpPut("/transfer")]
+        [HttpPut("transfer")]
         public async Task<IActionResult> TransferEmployee(TransferEmployeeCommand command)
         {
             var responseData = await _mediator.Send(command);

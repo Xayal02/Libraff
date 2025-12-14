@@ -2,7 +2,7 @@
   {
     "ContainingType": "Libraff.Api.Controllers.OrganizationController",
     "Method": "CreateEmployee",
-    "RelativePath": "api/employees",
+    "RelativePath": "api/v1/employees",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -16,9 +16,41 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Libraff.Api.Controllers.OrganizationController",
+    "Method": "TransferEmployee",
+    "RelativePath": "api/v1/employees/transfer",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Libraff.Application.CQRS.Commands.Organization.TransferEmployee.TransferEmployeeCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Libraff.Api.Controllers.WarehouseController",
+    "Method": "AddStockItem",
+    "RelativePath": "api/v1/warehouse/stock-item",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Libraff.Application.CQRS.Commands.Warehouse.AddStockItem.AddStockItemCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Libraff.Api.Controllers.WarehouseController",
     "Method": "AddSupply",
-    "RelativePath": "api/warehouse",
+    "RelativePath": "api/v1/warehouse/supply",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -32,16 +64,80 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Libraff.Api.Controllers.OrganizationController",
-    "Method": "TransferEmployee",
-    "RelativePath": "transfer",
+    "ContainingType": "Libraff.Api.Controllers.WarehouseController",
+    "Method": "AddSupplyDetail",
+    "RelativePath": "api/v1/warehouse/supply-detail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Libraff.Application.CQRS.Commands.Warehouse.AddSupplyDetail.AddSupplyDetailCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Libraff.Api.Controllers.WarehouseController",
+    "Method": "AddAdditionalSupplyDetail",
+    "RelativePath": "api/v1/warehouse/supply-detail",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "command",
-        "Type": "Libraff.Application.CQRS.Commands.Organization.TransferEmployee.TransferEmployeeCommand",
+        "Type": "Libraff.Application.CQRS.Commands.Warehouse.AddAdditionalSupplyDetail.AddAdditionalSupplyDetailCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Libraff.Api.Controllers.WarehouseController",
+    "Method": "ConfirmTransfer",
+    "RelativePath": "api/v1/warehouse/transfer/confirm",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Libraff.Application.CQRS.Commands.Warehouse.ConfirmTransfer.ConfirmTransferCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Libraff.Api.Controllers.WarehouseController",
+    "Method": "RejectTransfer",
+    "RelativePath": "api/v1/warehouse/transfer/reject",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Libraff.Application.CQRS.Commands.Warehouse.RejectTransfer.RejectTransferCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Libraff.Api.Controllers.WarehouseController",
+    "Method": "RequestTransfer",
+    "RelativePath": "api/v1/warehouse/transfer/request",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Libraff.Application.CQRS.Commands.Warehouse.MakeTransfer.RequestTransferCommand",
         "IsRequired": true
       }
     ],
