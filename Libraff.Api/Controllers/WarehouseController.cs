@@ -15,7 +15,7 @@ namespace Libraff.Api.Controllers
         [HttpPost("supply")]
         public async Task<IActionResult> AddSupply(AddSupplyCommand command)
         {
-            var responseData = await _mediator.Send(command);
+            var responseData = await _mediator.Send(command); //test
 
             if (responseData.IsSuccess)
                 return Ok();
